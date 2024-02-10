@@ -1,3 +1,3 @@
 # task
 machine learning task 1 - framingham 
-machine learning task 1 - real estate
+machine learning task 2 - real estate
